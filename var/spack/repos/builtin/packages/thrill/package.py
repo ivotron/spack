@@ -35,7 +35,7 @@ class Thrill(CMakePackage):
     homepage = "http://www.project-thrill.org"
 
     version('master',
-            git='https://github.com/ivotron/trill.git',
+            git='https://github.com/ivotron/thrill.git',
             branch='foxxllfix',
             submodules=True)
 
